@@ -8,9 +8,9 @@
 
 ### 📖 About me
 
-I am a Full Stack Web Developer. I am working with Laravel, PHP, React, MySQL,HTML, CSS, BOOTSTRAP, JAVASCRIPT, JQUERY,CODEIGNITER,Wordpress and Other Tech Stack. I have a decade (2+ Yrs) experience in developing static/dynamic websites using HTML5, CSS3, Bootstrap, JavaScript (ES6). I am a quick learner & I believe in hard work and efficiency.
+I am a Full Stack Web Developer. I am working with Laravel, PHP,Vue, React, MySQL,HTML, CSS, BOOTSTRAP, JAVASCRIPT, JQUERY,CODEIGNITER,Wordpress and Other Tech Stack. I have a decade (5+ Yrs) experience in developing static/dynamic websites using HTML5, CSS3, Bootstrap, JavaScript (ES6). I am a quick learner & I believe in hard work and efficiency.
 
-- 🌱 I’m currently learning Javascritp / PHP / Laravel 
+- 🌱 I’m currently Working Javascritp / PHP / Laravel 
 - 👯 I’m looking to collaborate on github 
 
 
